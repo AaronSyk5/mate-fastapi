@@ -1,0 +1,13 @@
+openai
+langchain
+speechrecognition
+pyttsx3
+pyaudio
+opencv-python
+ultralytics
+scikit-learn
+fastapi
+uvicorn
+gradio
+streamlit
+python-dotenv

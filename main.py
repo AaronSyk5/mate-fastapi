@@ -1,0 +1,1 @@
+print("✅ Tu entorno está listo para programar IA")
